@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringOperations", "StringO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringOperationsTests", "StringOperationsTests\StringOperationsTests.csproj", "{98E514CD-3FAB-45C8-89D1-4994E9809D92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLot", "ParkingLot\ParkingLot.csproj", "{B4DA4B30-0883-41CE-B99C-6F0377560415}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{98E514CD-3FAB-45C8-89D1-4994E9809D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98E514CD-3FAB-45C8-89D1-4994E9809D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98E514CD-3FAB-45C8-89D1-4994E9809D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DA4B30-0883-41CE-B99C-6F0377560415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DA4B30-0883-41CE-B99C-6F0377560415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DA4B30-0883-41CE-B99C-6F0377560415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DA4B30-0883-41CE-B99C-6F0377560415}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
